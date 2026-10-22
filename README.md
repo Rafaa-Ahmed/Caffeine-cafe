@@ -4,7 +4,7 @@
 Caffeine Cafe is a multi-page website designed to showcase a cafe's menu, introduce the business, and provide basic customer interactions.
 
 ## Live Website
-[Visit Caffeine Café](https://rafaa-ahmed.github.io/Caffeine-cafe/)
+[Visit Caffeine Cafe](https://rafaa-ahmed.github.io/Caffeine-cafe/)
 
 ## PROJECT FILES
 - index.html  : Home page featuring the cafe's introduction and highlights.
